@@ -983,13 +983,13 @@ h6 {
   line-height: 27px;
 }
 .contacts-top__item--1 {
-  background: url("../../img/contacts/01.svg") left no-repeat;
+  background: url("../img/contacts/01.svg") left no-repeat;
 }
 .contacts-top__item--2 {
-  background: url("../../img/contacts/02.svg") left no-repeat;
+  background: url("../img/contacts/02.svg") left no-repeat;
 }
 .contacts-top__item--3 {
-  background: url("../../img/contacts/03.svg") left no-repeat;
+  background: url("../img/contacts/03.svg") left no-repeat;
 }
 
 .social-contacts__item:not(:last-child) {
